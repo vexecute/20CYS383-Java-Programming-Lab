@@ -1,0 +1,9 @@
+l=[1,2,3,4]
+l.append(5)
+print(l)
+print(l[:-1])
+print(l[:-2])
+print(l[:-3])
+print(l[:-4])
+l[2]=6
+print(l)
