@@ -1,0 +1,2 @@
+There are two C programs. One saved with .c file extension and the other one is saved with .cpp file extension.
+Regardless what the extensions are, both the programs can be compiled and executed without any error.
