@@ -10,7 +10,7 @@ ImageDecrypter is an application that provides a graphical user interface (GUI) 
 It allows the user to select an image file (ciphered)(in formats: jpg, png, jpeg), display the inputted image (ciphered), 
 and then decrypt and display a pre-defined decrypted image (original image). The program utilizes Swing components
 for GUI and handles image operations.
-
+<br><br>
 
 
 ### Module Split-up
