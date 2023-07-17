@@ -159,7 +159,7 @@ public class ImageUploadUI extends JFrame {
 }
 
 ```
-<br><br>
+<br>
 
 
 ### Demo
