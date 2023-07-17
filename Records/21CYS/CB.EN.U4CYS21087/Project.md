@@ -32,7 +32,7 @@ package com.amrita.jpl.cys21087.project;
  * for uploading and decrypting images. It allows the user to select an image file (ciphered)
  * (in formats: jpg, png, jpeg), display the inputted image (ciphered), and then decrypt
  * and display a pre-defined decrypted image (original image). The program utilizes Swing components
- * for GUI and handles image operations using the ImageIO class.
+ * for GUI and handles image operations.
  */
 
 import javax.swing.*;
