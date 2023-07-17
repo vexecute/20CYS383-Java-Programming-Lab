@@ -19,8 +19,8 @@ for GUI and handles image operations.
 | Vishnu | Setup Image Panel and Buttons |
 | Saranesh | Upload Action |
 | Deepan | Decryption Action |
+
 <br><br>
-<br>
 
 
 ### Code
