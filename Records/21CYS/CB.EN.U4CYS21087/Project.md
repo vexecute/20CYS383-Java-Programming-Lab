@@ -19,7 +19,7 @@ for GUI and handles image operations.
 | Vishnu | Setup Image Panel and Buttons |
 | Saranesh | Upload Action |
 | Deepan | Decryption Action |
-
+<br><br>
 
 
 ### Code
@@ -158,13 +158,13 @@ public class ImageUploadUI extends JFrame {
 }
 
 ```
-
+<br><br>
 
 
 ### Demo
 
 ![ImageDecrypterGUI](https://github.com/vexecute/20CYS383-Java-Programming-Lab/assets/92919686/3a230670-53b3-4e14-a445-a38b47239835)
-
+<br><br>
 
 
 ### Screenshots
