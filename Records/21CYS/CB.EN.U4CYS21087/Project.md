@@ -11,12 +11,16 @@ It allows the user to select an image file (ciphered)(in formats: jpg, png, jpeg
 and then decrypt and display a pre-defined decrypted image (original image). The program utilizes Swing components
 for GUI and handles image operations.
 
+
+
 ### Module Split-up
 | Name | Topic |
 |------|-------|
 | Vishnu | Setup Image Panel and Buttons |
 | Saranesh | Upload Action |
 | Deepan | Decryption Action |
+
+
 
 ### Code
 ```
@@ -156,9 +160,11 @@ public class ImageUploadUI extends JFrame {
 ```
 
 
+
 ### Demo
 
 ![ImageDecrypterGUI](https://github.com/vexecute/20CYS383-Java-Programming-Lab/assets/92919686/3a230670-53b3-4e14-a445-a38b47239835)
+
 
 
 ### Screenshots
